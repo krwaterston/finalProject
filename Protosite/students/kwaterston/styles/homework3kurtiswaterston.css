@@ -1,0 +1,123 @@
+/*OP Fanoiki styling Kurtis Waterston's homepage*/
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(../assests/backgroundimage.jpg);
+	font-family: "Open Sans", sans-serif;
+}
+
+	
+	
+    
+
+
+#navbar ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	background-color:#B28879;
+	font-family: "Open Sans",sans-serif; 
+	z-index: 1;
+  
+}
+#navbar li {
+    float: left;
+}
+
+#navbar li a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 22px 16px;
+    text-align: center;
+}
+
+#navbar li a:hover {
+    background-color: #FF8C44;
+}
+
+#navbar .homeBtn {
+    font-size: 14px;
+    padding: 14px 16px;
+    font-family: italic, "Open Sans", sans-serif;
+}
+
+
+
+
+article {
+    padding: 10px;
+    margin: 10px 0;
+    background-color: black;
+    overflow: hidden;
+}
+
+aside {
+
+    font-family:"Open Sans", sans-serif;
+    float: right;
+    width: 20%;
+    height: 100%;
+    margin: 0 10px 10px 10px;
+    padding: 10px 10px 114px 10px;
+    background-color: white;
+    overflow: hidden;
+}
+
+article > h1 {
+    font-family: "Open Sans", sans-serif;
+}
+
+details {
+    font-family: "Open-Sans", sans-serif;
+}
+
+.card {
+    background-color: white;
+    padding: 0;
+    margin: 16px 8px;
+    box-shadow: 10px 10px 10px #9B9E9C;
+    border-radius: 2px;
+}
+
+.card img {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    border-radius: 2px 2px 0 0;
+}
+
+.card h1, p, a {
+    font-family: "Open Sans", sans-serif;
+    padding: 8px;
+    margin: 0;
+}
+
+.card h1{
+	color: #FF8C44;
+	font-size: 22px;
+	font-family: italic, "Open Sans", sans-serif;
+}
+
+.list {
+    text-align: left;
+    padding: 8px;
+    margin: 0 0 0 16px;
+    font-family: "Open-Sans", sans-serif;
+}
+
+#footer {
+    clear: both;
+    background-color: #B28879;
+    width: 100%;
+    color: white;
+    margin: 0;
+    padding:1px; 
+	font-family:italic,"Open Sans",sans-serif; 
+}

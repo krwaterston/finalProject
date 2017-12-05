@@ -1,0 +1,90 @@
+<!------------CSS and HTML designed by Pegah Tavakoli, Jennifer Illner, and Kurtis Waterston ----------->
+<!------------Code for COMP1950 website re-design project ----------->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Comp 1950 : Homework</title>
+    <meta name="descripton" content="Comp 1950 - A course offered by BCIT to teach moder web development. A follow on course from Comp 1850.">
+
+    <link href="/Protosite/students/kwaterston/styles/normalize.css">
+
+    <!-- fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Quicksand|Roboto" rel="stylesheet">
+
+    <!-- w3.css stylesheet -->
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-blue.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-2017.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- file explorer style -->
+    <link href="assets/css/styles.css" rel="stylesheet"/>
+
+    <!-- jquery -->
+    <script
+            src="https://code.jquery.com/jquery-3.2.1.js"
+            integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
+            crossorigin="anonymous"></script>
+
+    <!-- font awesome icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- styles -->
+    <link rel="stylesheet" href="styles/protosite.css">
+    <link rel="stylesheet" href="styles/print_style.css" media="print">
+</head>
+<body>
+
+<!-- nav bar -->
+<nav></nav>
+
+<main style="min-height: 80vh">
+    <div class="w3-container">
+        <input class="" id="file" type="file" style="display: none">
+        <label for="file" class="w3-btn w3-2017-navy-peony w3-right w3-margin"><i class="fa fa-cloud-upload"></i> Upload</label>
+
+        <button id="viewBtn" class="w3-button w3-margin square-btn w3-2017-navy-peony w3-right" type="button">
+            <i class="fa fa-eye"></i> View Website</button>
+    </div>
+
+    <!-- file explorer -->
+    <div class="w3-container">
+        <div class="filemanager">
+
+            <div class="search">
+                <input type="search" placeholder="Find a file.." />
+            </div>
+
+            <div class="breadcrumbs"></div>
+
+            <ul class="data"></ul>
+
+            <div class="nothingfound">
+                <div class="nofiles"></div>
+                <span>No files here.</span>
+            </div>
+
+        </div>
+    </div>
+</main>
+
+<!-- footer -->
+<footer></footer>
+
+<script>
+    $('nav').load("nav.html");
+    $('footer').load("footer.html");
+
+    $('#viewBtn').click(function () {
+        location.assign("/students/kwaterston/index.shtml");
+    });
+</script>
+
+<!-- file explorer script -->
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="assets/js/script.js"></script>
+
+</body>
+</html>

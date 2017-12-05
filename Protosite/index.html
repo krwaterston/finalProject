@@ -1,0 +1,118 @@
+<!------------CSS and HTML designed by Pegah Tavakoli, Jennifer Illner, and Kurtis Waterston ----------->
+<!------------Code for COMP1950 website re-design project ----------->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Comp 1950 : Home</title>
+
+    <meta name="descripton" content="Comp 1950 - A course offered by BCIT to teach moder web development. A follow on course from Comp 1850.">
+
+    <link href="/Protosite/students/kwaterston/styles/normalize.css">
+
+    <!-- fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Quicksand|Roboto" rel="stylesheet">
+
+    <!-- w3.css stylesheet -->
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-blue.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-2017.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- jquery -->
+    <script
+            src="https://code.jquery.com/jquery-3.2.1.js"
+            integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
+            crossorigin="anonymous"></script>
+
+    <!-- font awesome icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- styles -->
+    <link rel="stylesheet" href="styles/protosite.css">
+    <link rel="stylesheet" href="styles/print_style.css" media="print">
+    <link rel="stylesheet" href="styles/stepProgressBar.css">
+    <link rel="stylesheet" href="styles/monthly.css">
+
+    <!-- js -->
+    <script type="text/javascript" src="js/monthly.js"></script>
+</head>
+<body class="">
+
+<!-- nav bar -->
+<nav></nav>
+
+<!-- class progress bar -->
+<section id="progress-bar" class="w3-container w3-hide-small">
+    <ul class="list-unstyled multi-steps">
+        <li><a href="lecture4.html">Lesson 1</a></li>
+        <li><a href="lecture4.html">Lesson 2</a></li>
+        <li><a href="lecture4.html">Lesson 3</a></li>
+        <li class="is-active"><a href="lecture4.html">Lesson 4</a></li>
+        <li>Lesson 5</li>
+        <li>Lesson 6</li>
+        <li>Lesson 7</li>
+        <li>Lesson 8</li>
+        <li>Lesson 9</li>
+        <li>Lesson 10</li>
+        <li>Lesson 11</li>
+    </ul>
+</section>
+
+<!-- main section -->
+<main class="w3-container">
+
+    <div class="w3-row">
+        <div class="w3-col w3-right w3-mobile" style="width: 300px">
+            <!-- Event Calendar -->
+            <section class="w3-padding">
+                <div class="monthly" id="eventCal"></div>
+            </section>
+
+            <!-- news section -->
+            <section class="w3-border w3-margin">
+                <h1 class="w3-2017-navy-peony section-title w3-padding-small w3-large">News</h1>
+                <p class="w3-padding-small">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at elementum leo.
+                    Sed et est faucibus eros semper tincidunt. Vivamus placerat et dui quis tristique.
+                    Cras commodo rhoncus fringilla. Mauris in pharetra augue. Quisque vulputate rhoncus ex, a finibus nunc commodo at.
+                    Sed a tristique ligula. Mauris vel condimentum ante.
+                </p>
+            </section>
+        </div>
+        <div class="w3-rest w3-mobile">
+            <!-- welcome section -->
+            <section class="w3-border w3-margin">
+                <h1 class="w3-2017-navy-peony section-title w3-padding-small w3-large">Welcome</h1>
+                <p class="w3-padding-small">
+                    <strong>COMP 1950</strong> follows on from <a href="#">COMP 1850</a> in more depth and introduces new topics and techniques for developing effective web sites.
+                </p>
+
+                <p class="w3-padding-small">
+                    Students will gain a deeper understanding of HTML and CSS.
+                    Topics will include: Current and emerging trends in HTML, detailed use of CSS for layout and presentation, an introduction to JavaScript frameworks such as jQuery, how to leverage Server Side Includes (SSI) for re-usable code, and working with Content Management Systems.
+                </p>
+            </section>
+        </div>
+
+    </div>
+
+</main>
+
+<footer></footer>
+
+
+<script>
+    $('#eventCal').monthly({
+        mode: "event",
+        dataType: "json",
+        jsonUrl: "events.json"
+    });
+
+    $('nav').load("nav.html");
+    $('footer').load("footer.html");
+</script>
+
+</body>
+</html>

@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css?family=Mrs+Sheppards|Oleo+Script|Roboto+Condensed');
+
+body {
+    background-color: white;
+}
+
+/* navbar styles */
+
+nav ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    font-family: 'Oleo Script', sans-serif;
+    z-index: 1;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 22px 16px;
+    text-align: center;
+}
+
+nav li a:hover {
+    background-color: #2a2a2a;
+    /*text-decoration: underline;*/
+}
+
+nav .homeBtn {
+    font-size: 28px;
+    padding: 14px 16px;
+    font-family: 'Mrs Sheppards', cursive;
+}
+
+/* main */
+header {
+    font-family: "Oleo Script", sans-serif;
+    padding-left: 16px;
+    font-size: 64px;
+}
+
+main {
+    margin-top: 68px;
+}
+
+section {
+    box-sizing: border-box;
+    width: 75%;
+    float: left;
+}
+
+article {
+    background-color: white;
+    padding: 16px 8px;
+    margin: 16px;
+    box-shadow: 4px 4px 10px #424242;
+}
+
+article h2 {
+    font-family: "Oleo Script", sans-serif;
+}
+
+article p {
+    font-family: Futura, sans-serif;
+}
+
+article img {
+    width: 100%;
+}
+
+.socialIcons a {
+    color: black;
+    font-size: 22px;
+    text-decoration: none;
+    padding: 0 4px;
+}
+
+.socialIcons a:hover {
+    font-size: 26px;
+}
+
+aside {
+    width: 25%;
+    float: left;
+}
+
+aside .ad {
+
+    padding: 4px;
+    margin-bottom: 12px;
+    border: solid 2px #464348;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+aside img {
+    width: 100%;
+}
+
+aside h2 {
+    font-family: 'Mrs Sheppards', cursive;
+    font-size: 32px;
+    text-align: center;
+}
+
+aside p {
+    font-family: Futura;
+}
+
+/* footer */
+
+footer {
+    box-sizing: border-box;
+    clear: both;
+    background-color: black;
+    width: 100%;
+    color: white;
+    margin: 0;
+    padding: 8px;
+}

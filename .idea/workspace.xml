@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1f23361-f111-490a-a9bd-09d2d7e5660f" name="Default" comment="commit">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/css_images/bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/css_images/header.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Protosite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/protosite.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sitemap.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Protosite/assets/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Protosite/events.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Protosite/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Protosite/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Protosite/styles/monthly.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Protosite/styles/print_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Protosite/styles/protosite.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Protosite/styles/stepProgressBar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/meyerweb.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/print_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/stellarnav.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/stellarnav.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intro.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/end.frag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/functions/historyPushState.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/functions/isIE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/functions/isIE8AndOlder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/functions/refreshHTMLClasses.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jgallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jqueryExtensions/jLoader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jqueryExtensions/outerHtml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jqueryExtensions/overlay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/prototype/advancedAnimation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/prototype/iconChangeAlbum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/prototype/jgallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/prototype/progress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/prototype/thumb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/prototype/thumbnails.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/prototype/thumbnailsGenerator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/prototype/zoom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/start.frag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/stellarnav.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/stellarnav.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/var/defaults.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/var/defaultsFullScreenMode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/var/defaultsSliderMode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/var/requiredFullScreenMode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/var/requiredSliderMode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/var/transitions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/var/transitionsAsArray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/var/transitionsBackward.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rationale.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sitemap.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/events.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fileExplorer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meta_site/Protosite/assets/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meta_site/Protosite/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meta_site/Protosite/styles/monthly.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meta_site/Protosite/styles/stepProgressBar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styles/protosite.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.php" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/script.js" afterPath="$PROJECT_DIR$/Protosite/assets/js/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/homework.html" afterPath="$PROJECT_DIR$/Protosite/homework.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/monthly.js" afterPath="$PROJECT_DIR$/Protosite/js/monthly.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lecture4.html" afterPath="$PROJECT_DIR$/Protosite/lecture4.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/nav.html" afterPath="$PROJECT_DIR$/Protosite/nav.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/quiz3.html" afterPath="$PROJECT_DIR$/Protosite/quiz3.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/.htaccess" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/.htaccess" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/assests/Background.png" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/assests/Background.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/assests/assign1screenshot.png" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/assests/assign1screenshot.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/assests/assign2_screenshot.png" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/assests/assign2_screenshot.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/assests/assign3screenshot.png" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/assests/assign3screenshot.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/assests/backgroundimage.jpg" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/assests/backgroundimage.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/assests/comming_soon.jpg" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/assests/comming_soon.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/assests/las_vegas.jpg" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/assests/las_vegas.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/assests/lorem_ipsum_img.png" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/assests/lorem_ipsum_img.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/assests/lorem_ipsum_img2.jpg" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/assests/lorem_ipsum_img2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/assests/lorem_ipsum_img3.png" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/assests/lorem_ipsum_img3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/assests/lorem_ipsum_img4.jpg" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/assests/lorem_ipsum_img4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/assests/lorem_ipsum_img5.jpg" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/assests/lorem_ipsum_img5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/assests/maui.jpg" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/assests/maui.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/assests/screenshot 6.png" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/assests/screenshot 6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/assests/screenshot8.png" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/assests/screenshot8.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/assests/selfie.jpg" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/assests/selfie.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/assignment2.shtml" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/assignment2.shtml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/assignment3_page1.shtml" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/assignment3_page1.shtml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/assignment3_page2.shtml" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/assignment3_page2.shtml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/assignment3_page3.shtml" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/assignment3_page3.shtml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/assignment6.shtml" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/assignment6.shtml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/error_404_file.html" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/error_404_file.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/index.shtml" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/index.shtml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/index2.shtml" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/index2.shtml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/styles/assignment3Style.css" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/styles/assignment3Style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/styles/homework3kurtiswaterston.css" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/styles/homework3kurtiswaterston.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/styles/normalize.css" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/styles/normalize.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/kwaterston/styles/style.css" afterPath="$PROJECT_DIR$/Protosite/students/kwaterston/styles/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/students/scan.php" afterPath="$PROJECT_DIR$/Protosite/students/scan.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/comp1950Protosite.iml" afterPath="$PROJECT_DIR$/.idea/comp1950Protosite.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1095">
+              <caret line="73" column="93" lean-forward="false" selection-start-line="73" selection-start-column="93" selection-end-line="73" selection-end-column="93" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Protosite/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="print_style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Protosite/styles/print_style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stellarnav.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/stellarnav.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/layout.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="36" lean-forward="false" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="homework.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Protosite/homework.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1110">
+              <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>click</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/files/scan.php" />
+        <option value="$PROJECT_DIR$/fileExplorer.html" />
+        <option value="$PROJECT_DIR$/connectors/jqueryFileTree.php" />
+        <option value="$PROJECT_DIR$/scan.php" />
+        <option value="$PROJECT_DIR$/students/scan.php" />
+        <option value="$PROJECT_DIR$/assets/js/script.js" />
+        <option value="$PROJECT_DIR$/assets/css/styles.css" />
+        <option value="$PROJECT_DIR$/events.json" />
+        <option value="$PROJECT_DIR$/styles/protosite.css" />
+        <option value="$PROJECT_DIR$/styles/stepProgressBar.css" />
+        <option value="$PROJECT_DIR$/styles/monthly.css" />
+        <option value="$PROJECT_DIR$/footer.html" />
+        <option value="$PROJECT_DIR$/quiz3.html" />
+        <option value="$PROJECT_DIR$/homework.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/lecture4.html" />
+        <option value="$PROJECT_DIR$/nav.html" />
+        <option value="$PROJECT_DIR$/meta_site/index.html" />
+        <option value="$PROJECT_DIR$/meta_site/Protosite/index.html" />
+        <option value="$PROJECT_DIR$/meta_site/Protosite/homework.html" />
+        <option value="$PROJECT_DIR$/meta_site/Protosite/lecture4.html" />
+        <option value="$PROJECT_DIR$/meta_site/Protosite/quiz3.html" />
+        <option value="$PROJECT_DIR$/css/layout.css" />
+        <option value="$PROJECT_DIR$/Protosite/homework.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="." />
+      <path value="$PROJECT_DIR$/../../bin/php/php7.0.0/lib/php" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="878" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="finalProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="finalProject" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/meta_site/Protosite" />
+      <recent name="$PROJECT_DIR$/students" />
+      <recent name="$PROJECT_DIR$/files" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1f23361-f111-490a-a9bd-09d2d7e5660f" name="Default" comment="" />
+      <created>1511921387731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511921387731</updated>
+      <workItem from="1511921389489" duration="24000" />
+      <workItem from="1511921475548" duration="9180000" />
+      <workItem from="1512149657093" duration="581000" />
+      <workItem from="1512419367339" duration="4714000" />
+      <workItem from="1512432023895" duration="338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15476000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="878" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Protosite/lecture4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="142" lean-forward="false" selection-start-line="8" selection-start-column="142" selection-end-line="8" selection-end-column="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/quiz3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540">
+          <caret line="8" column="142" lean-forward="false" selection-start-line="8" selection-start-column="142" selection-end-line="8" selection-end-column="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sitemap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-593">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rationale.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Protosite.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/protosite.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="73" column="93" lean-forward="false" selection-start-line="73" selection-start-column="93" selection-end-line="73" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/stellarnav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="36" lean-forward="false" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/homework.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="47" lean-forward="false" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/lecture4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="86" lean-forward="false" selection-start-line="9" selection-start-column="86" selection-end-line="9" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/quiz3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="86" lean-forward="false" selection-start-line="9" selection-start-column="86" selection-end-line="9" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/styles/protosite.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/styles/stepProgressBar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/styles/monthly.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="37" lean-forward="false" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php" />
+    <entry file="file://$PROJECT_DIR$/files/scan.php" />
+    <entry file="file://$PROJECT_DIR$/connectors/jqueryFileTree.php" />
+    <entry file="file://$PROJECT_DIR$/Protosite/students/scan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="25" lean-forward="false" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/assets/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="787">
+          <caret line="95" column="13" lean-forward="false" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/students/kwaterston/index.shtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1867">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileExplorer.html" />
+    <entry file="file://$PROJECT_DIR$/Protosite/assets/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="112" column="53" lean-forward="true" selection-start-line="112" selection-start-column="53" selection-end-line="112" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/events.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/styles/protosite.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/styles/stepProgressBar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/styles/monthly.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4620">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php" />
+    <entry file="file://$PROJECT_DIR$/Protosite/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="60" lean-forward="false" selection-start-line="48" selection-start-column="60" selection-end-line="48" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/lecture4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="142" lean-forward="false" selection-start-line="8" selection-start-column="142" selection-end-line="8" selection-end-column="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/quiz3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540">
+          <caret line="8" column="142" lean-forward="false" selection-start-line="8" selection-start-column="142" selection-end-line="8" selection-end-column="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sitemap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-593">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rationale.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Protosite.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/protosite.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/stellarnav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="36" lean-forward="false" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/homework.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protosite/styles/print_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="73" column="93" lean-forward="false" selection-start-line="73" selection-start-column="93" selection-end-line="73" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

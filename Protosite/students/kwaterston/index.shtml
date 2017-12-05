@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Kurtis Waterston</title>
+	<meta charset="utf-8">
+
+	<!-- external style sheet -->
+	<link rel="stylesheet" type="text/css" href="/Protosite/students/kwaterston/styles/style.css">
+	<link rel="alternate stylesheet" type="text/css" href="/Protosite/students/kwaterston/styles/homework3kurtiswaterston.css" title="homeworkkurtiswaterston">
+</head>
+<body>
+
+<!-- main site navigation -->
+<nav id="navbar">
+	<ul class="navbar-items">
+		<li><a class="homeBtn" href="#">Kurtis Waterston</a></li>
+		<!--<li><a href="#">Assignments</a></li>-->
+		<!--<li><a href="#">About</a></li>-->
+		<!--<li><a href="#">Contact</a></li>-->
+	</ul>
+</nav>
+
+<!-- site content -->
+
+<div id="main-content">
+
+	<!-- left row -->
+	<div class="third">
+		<!-- Profile -->
+		<div class="card">
+			<img src="assests/selfie.jpg" width="430" height="430" alt="selfie.jpg">
+
+			<h1>Kurtis Waterston</h1>
+			<p>
+				I'm taking Comp 1950 as part of the part-time CST program. Me and my wife just had our first child and are finding
+				that we are way busier than I thought possible. I also have done martial arts my whole life and I currently teach a Muay Thai
+				class. Oh and I also brew my own beer.
+			</p>
+		</div>
+
+		<!-- Assignment 3 -->
+		<div class="card">
+			<img src="/Protosite/students/kwaterston/assests/assign3screenshot.png" width="1098" height="1098" alt="comming soon">
+
+			<h1>Assignment 3</h1>
+
+			<p>Alternate Styling done by OP Fanoiki</p>
+			<a href="/Protosite/students/kwaterston/index2.shtml">more...</a>
+
+		</div>
+
+		<!-- Assignment 6 -->
+		<div class="card">
+			<img src="/Protosite/students/kwaterston/assests/screenshot%206.png" width="1098" height="1098" alt="comming soon">
+
+			<h1>Assignment 6</h1>
+
+			<p>Getting a round slider JQuery Plugin to work</p>
+			<a href="/Protosite/students/kwaterston/assignment6.shtml">more...</a>
+
+		</div>
+	</div>
+
+	<!-- middle row -->
+	<div class="third">
+		<!-- Experience -->
+		<div class="card">
+			<h1>Experience</h1>
+
+			<p>
+				I have some experience in web development. I have used HTML, CSS, Javascript, PHP, and SQL as well as some frameworks such as
+				AngularJS, Bootstrap, and JQuery. I am currently working a personal website as well as a fitness web app using angular.
+			</p>
+		</div>
+
+		<!-- Tools -->
+		<div class="card">
+			<h1>Tools I use</h1>
+			<ul class="list">
+				<li><a href="https://www.jetbrains.com/phpstorm/">PHPStorm</a> - My IDE of choice as it offers some nice features to help make coding a little smoother.</li>
+				<li>
+					<a href="https://www.mamp.info/en/">MAMP</a> - A great tool for setting up a local development environment. Takes a lot of the guess work out of
+					installing all the working parts. Free and paid versions available.
+				</li>
+				<li><a href="https://www.sequelpro.com/">SequelPro</a> - A tool for doing all my database work.</li>
+			</ul>
+		</div>
+
+		<!-- Assignment 2 -->
+		<div class="card">
+			<img src="/Protosite/students/kwaterston/assests/assign2_screenshot.png" width="1098" height="1098" alt="Assign 2">
+
+			<h1>Assignment 2</h1>
+
+			<p>Some of my favourite places that I've visited marked up with html5 elements</p>
+			<a href="/Protosite/students/kwaterston/assignment2.shtml">more...</a>
+
+		</div>
+
+		<!-- Assignment 5 -->
+		<div class="card">
+			<img src="/Protosite/students/kwaterston/assests/comming_soon.jpg" width="1098" height="1098" alt="comming soon">
+
+			<h1>Assignment 5</h1>
+
+			<p>Details coming soon</p>
+			<a href="">more...</a>
+
+		</div>
+	</div>
+
+	<!-- right row -->
+	<div class="third">
+		<!-- favourite websites -->
+		<div class="card">
+			<h1>Favorite Websites</h1>
+			<ul class="list">
+				<li><a href="https://www.w3schools.com/">w3schools</a> - Great resources for web development. Awesome tutorials, including how I learnt php and angularjs.</li>
+				<li><a href="http://www.thefightcity.com/">The Fight City</a> - Really good boxing info as well as home to my favorite boxing analyst Lee Wylie.</li>
+				<li><a href="https://www.engadget.com/">Engadget</a> - Interesting articles about technology.</li>
+			</ul>
+		</div>
+
+		<!-- Assignment 1 -->
+		<div class="card">
+			<img src="/Protosite/students/kwaterston/assests/assign1screenshot.png" width="1098" height="1098" alt="comming soon">
+
+			<h1>Assignment 1</h1>
+			<p>Main Hub page for COMP 1950</p>
+			<a href="/Protosite/students/kwaterston/index.shtml">more...</a>
+		</div>
+
+		<!-- Assignment 4 -->
+		<div class="card">
+			<img src="/Protosite/students/kwaterston/assests/lorem_ipsum_img2.jpg" width="710" height="405" alt="comming soon">
+
+			<h1>Assignment 4</h1>
+
+			<p>Practicing layout using css</p>
+			<a href="/Protosite/students/kwaterston/assignment3_page1.shtml">more...</a>
+
+		</div>
+
+		<!-- Assignment 8 -->
+		<div class="card">
+			<img src="/Protosite/students/kwaterston/assests/screenshot8.png" width="1098" height="1098" alt="comming soon">
+
+			<h1>Assignment 8</h1>
+
+			<p>Customizing Tumblr theme</p>
+			<a href="http://kwaterston.tumblr.com/">more...</a>
+
+		</div>
+	</div>
+</div>
+
+<footer id="footer">
+	<p>Copyright Kurtis Waterston 2017</p>
+	<a href="https://validator.w3.org/check?uri=http%3A%2F%2Fbcitcomp.ca%2Fstudents%2Fkwaterston%2Findex.html&charset=%28detect+automatically%29&doctype=Inline&group=0">Validator Check</a>
+
+	<p>
+		<!--#config timefmt="%B %e %Y, %H:%M%p"-->
+		Last modified: <!--#echo var="LAST_MODIFIED"-->
+	</p>
+</footer>
+
+
+</body>
+</html>

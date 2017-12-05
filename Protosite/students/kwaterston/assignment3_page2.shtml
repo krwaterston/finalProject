@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Assignment 3 - page 2</title>
+
+    <link rel="stylesheet" href="/Protosite/students/kwaterston/styles/normalize.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/Protosite/students/kwaterston/styles/assignment3Style.css">
+</head>
+<body>
+
+<!-- main site navigation -->
+<nav id="navbar">
+    <ul class="navbar-items">
+        <li><a class="homeBtn" href="/Protosite/students/kwaterston/index.shtml">Kurtis Waterston</a></li>
+        <li><a href="assignment3_page1.shtml">Page 1</a></li>
+        <li><a href="assignment3_page2.shtml">Page 2</a></li>
+        <li><a href="assignment3_page3.shtml">Page 3</a></li>
+    </ul>
+</nav>
+
+<main>
+    <section>
+        <header>Blog</header>
+
+        <article>
+            <h2>Donec elit massa</h2>
+            <img src="/Protosite/students/kwaterston/assests/lorem_ipsum_img3.png">
+
+
+            <p>
+                Nulla maximus nunc orci. Nunc ex magna, molestie et lorem ut, blandit suscipit felis. Praesent metus massa, mattis ut vulputate hendrerit, tempus vel tortor. Praesent fringilla quis massa quis porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras aliquam cursus lacus at feugiat. Aliquam sed pulvinar felis, vitae tristique dui. Donec semper libero metus, vitae sagittis est elementum non. Duis nisl elit, aliquet imperdiet gravida ut, malesuada in orci. Proin bibendum ut metus et vulputate. Sed luctus diam eu mauris egestas commodo. Proin suscipit, nunc eget cursus ornare, mauris metus tincidunt odio, quis feugiat ligula lectus eu mi. Fusce laoreet, nulla id blandit laoreet, purus mauris dapibus purus, a viverra lacus eros quis est.
+            </p>
+
+            <p>
+                Aenean accumsan consectetur bibendum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam consectetur, justo eget rhoncus ornare, ex nisl bibendum nisl, nec ornare ligula felis in lorem. Nulla sodales nulla mauris, ut vestibulum libero rhoncus tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam tortor ipsum, mattis eleifend luctus non, interdum a sem. Morbi et felis nunc. Integer consectetur sed tortor eu hendrerit. Donec commodo pellentesque nibh at varius. Nullam a nisi mollis leo condimentum pellentesque sed quis nunc. Morbi fermentum bibendum magna vel porttitor. Aliquam facilisis placerat imperdiet. Quisque tincidunt lobortis laoreet. Aliquam non turpis tempor mi egestas tincidunt. Nam quis leo turpis.
+            </p>
+
+            <p>
+                Nunc bibendum mollis mi sollicitudin vestibulum. Curabitur urna mauris, malesuada vitae elit sed, rhoncus malesuada turpis. Proin at diam eros. Fusce mattis pulvinar dui, sed hendrerit sem molestie vitae. Ut quis massa lectus. Nullam hendrerit, nibh a fermentum volutpat, arcu dolor volutpat diam, vitae cursus metus enim sed arcu. Maecenas dignissim odio a quam viverra malesuada. Donec sit amet orci in purus malesuada ornare. Integer elementum eros sapien, eget iaculis est venenatis a. Sed fringilla tortor id enim aliquet dignissim. Sed bibendum scelerisque felis, in ultricies eros imperdiet id. Maecenas lorem eros, convallis et aliquam ut, dictum eu urna. Integer ullamcorper rhoncus consectetur. Fusce vulputate, quam vitae placerat auctor, mi felis fermentum eros, non scelerisque ante augue et nunc. Duis a tincidunt mi.
+            </p>
+
+            <p><a href="#">more...</a></p>
+            <p class="socialIcons">
+                <a href="#">456 <i class="fa fa-comments"></i></a>
+                <a href="#"><i class="fa fa-facebook-official"></i></a>
+                <a href="#"><i class="fa fa-google-plus-official"></i></a>
+                <a href="#"><i class="fa fa-pintrest"></i></a>
+                <a href="#"><i class="fa fa-twitter"></i></a>
+                <a href="#"><i class="fa fa-instagram"></i></a>
+            </p>
+        </article>
+
+        <article>
+            <h2>In velit nisi, vestibulum at</h2>
+            <img src="/Protosite/students/kwaterston/assests/lorem_ipsum_img4.jpg">
+
+            <p>
+                Sed volutpat risus sit amet ligula commodo vulputate. Duis scelerisque dolor ut tincidunt porttitor. Nullam eget nibh a sem efficitur blandit. Nam eu consectetur libero. Vestibulum vel libero eget quam mattis porta congue sed mauris. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse sollicitudin aliquam feugiat. Pellentesque eget neque ac neque vehicula viverra ac egestas magna.
+            </p>
+
+            <h3>Sed in mi non sapien volutpat dapibus:</h3>
+            <ul>
+                <li>Aliquam sed nisl suscipit orci commodo elementum vitae mattis velit.</li>
+                <li>Donec at erat gravida magna convallis interdum.</li>
+                <li>Nam sed erat sollicitudin, dapibus tellus vel, gravida nunc.</li>
+            </ul>
+
+            <p><a href="#">more...</a></p>
+            <p class="socialIcons">
+                <a href="#">15 <i class="fa fa-comments"></i></a>
+                <a href="#"><i class="fa fa-facebook-official"></i></a>
+                <a href="#"><i class="fa fa-google-plus-official"></i></a>
+                <a href="#"><i class="fa fa-pintrest"></i></a>
+                <a href="#"><i class="fa fa-twitter"></i></a>
+                <a href="#"><i class="fa fa-instagram"></i></a>
+            </p>
+        </article>
+    </section>
+
+    <aside>
+        <div class="ad">
+            <h2>Nulla facilisi</h2>
+            <img src="/Protosite/students/kwaterston/assests/lorem_ipsum_img.png" alt="lorem ipsum img">
+            <p>
+                Vestibulum id hendrerit nibh. Aliquam ac congue eros, ultrices cursus ex. Aenean in magna in.
+            </p>
+        </div>
+
+        <div class="ad">
+            <img src="/Protosite/students/kwaterston/assests/lorem_ipsum_img5.jpg">
+        </div>
+    </aside>
+</main>
+
+<footer id="footer">
+    <p>Copyright Kurtis Waterston 2017</p>
+    <a href="https://validator.w3.org/nu/?doc=http%3A%2F%2Fbcitcomp.ca%2Fstudents%2Fkwaterston%2Fassignment3_page2.html">Validator Check</a>
+
+    <p>
+        <!--#config timefmt="%B %e %Y, %H:%M%p"-->
+        Last modified: <!--#echo var="LAST_MODIFIED"-->
+    </p>
+</footer>
+
+</body>
+</html>

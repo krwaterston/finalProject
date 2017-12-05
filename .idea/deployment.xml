@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="fightshape">
+    <serverData>
+      <paths name="fightshape">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="comp1950Protosite" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

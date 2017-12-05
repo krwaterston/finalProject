@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Assignment 3 - page 2</title>
+
+    <link rel="stylesheet" href="/Protosite/students/kwaterston/styles/normalize.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/Protosite/students/kwaterston/styles/assignment3Style.css">
+</head>
+<body>
+
+<!-- main site navigation -->
+<nav id="navbar">
+    <ul class="navbar-items">
+        <li><a class="homeBtn" href="/Protosite/students/kwaterston/index.shtml">Kurtis Waterston</a></li>
+        <li><a href="assignment3_page1.shtml">Page 1</a></li>
+        <li><a href="assignment3_page2.shtml">Page 2</a></li>
+        <li><a href="assignment3_page3.shtml">Page 3</a></li>
+    </ul>
+</nav>
+
+<main>
+    <section>
+        <header>Blog</header>
+
+        <article>
+            <h2>In velit nisi, vestibulum at</h2>
+            <img src="/Protosite/students/kwaterston/assests/lorem_ipsum_img4.jpg">
+
+            <p>
+                Sed volutpat risus sit amet ligula commodo vulputate. Duis scelerisque dolor ut tincidunt porttitor. Nullam eget nibh a sem efficitur blandit. Nam eu consectetur libero. Vestibulum vel libero eget quam mattis porta congue sed mauris. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse sollicitudin aliquam feugiat. Pellentesque eget neque ac neque vehicula viverra ac egestas magna.
+            </p>
+
+            <h3>Sed in mi non sapien volutpat dapibus:</h3>
+            <ul>
+                <li>Aliquam sed nisl suscipit orci commodo elementum vitae mattis velit.</li>
+                <li>Donec at erat gravida magna convallis interdum.</li>
+                <li>Nam sed erat sollicitudin, dapibus tellus vel, gravida nunc.</li>
+            </ul>
+
+            <p><a href="#">more...</a></p>
+            <p class="socialIcons">
+                <a href="#">15 <i class="fa fa-comments"></i></a>
+                <a href="#"><i class="fa fa-facebook-official"></i></a>
+                <a href="#"><i class="fa fa-google-plus-official"></i></a>
+                <a href="#"><i class="fa fa-pintrest"></i></a>
+                <a href="#"><i class="fa fa-twitter"></i></a>
+                <a href="#"><i class="fa fa-instagram"></i></a>
+            </p>
+        </article>
+    </section>
+
+    <aside>
+        <div class="ad">
+            <h2>Nulla facilisi</h2>
+            <img src="/Protosite/students/kwaterston/assests/lorem_ipsum_img.png" alt="lorem ipsum img">
+            <p>
+                Vestibulum id hendrerit nibh. Aliquam ac congue eros, ultrices cursus ex. Aenean in magna in.
+            </p>
+        </div>
+
+        <div class="ad">
+            <img src="/Protosite/students/kwaterston/assests/lorem_ipsum_img5.jpg">
+        </div>
+    </aside>
+</main>
+
+<footer id="footer">
+    <p>Copyright Kurtis Waterston 2017</p>
+    <a href="https://validator.w3.org/check?uri=http%3A%2F%2Fbcitcomp.ca%2Fstudents%2Fkwaterston%2Findex.html&charset=%28detect+automatically%29&doctype=Inline&group=0">Validator Check</a>
+
+    <p>
+        <!--#config timefmt="%B %e %Y, %H:%M%p"-->
+        Last modified: <!--#echo var="LAST_MODIFIED"-->
+    </p>
+</footer>
+
+</body>
+</html>

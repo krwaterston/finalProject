@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Assignment 2</title>
+
+    <link rel="stylesheet" href="/Protosite/students/kwaterston/styles/style.css">
+</head>
+<body>
+
+<!-- main site navigation -->
+<nav id="navbar">
+    <ul class="navbar-items">
+        <li><a class="homeBtn" href="/Protosite/students/kwaterston/index.shtml">Kurtis Waterston</a></li>
+        <!--<li><a href="#">Assignments</a></li>-->
+        <!--<li><a href="#">About</a></li>-->
+        <!--<li><a href="#">Contact</a></li>-->
+    </ul>
+</nav>
+
+<aside>
+    <h1>New HTML5 Elements Used:</h1>
+
+    <ul>
+        <li>
+            Details - An element that hides or shows additional details on demand. Has an open attribute to specify wether the
+            element should be visible to the user. The details tag is supported in all major browsers except IE.
+        </li>
+        <li>
+            Summary - A child element of details. Used to show a summary of the details that stays visible. The summary has no
+            specific attributes to it. The details tag is supported in all major browsers except IE.
+        </li>
+    </ul>
+</aside>
+
+<!-- main content -->
+<main>
+
+    <article>
+        <h1>Hawaii</h1>
+
+        <figure>
+            <img src="/Protosite/students/kwaterston/assets/maui.jpg" alt="maui">
+            <figcaption>Maui was a great relaxing vacation spot to really unwind and do a lot of nothing.</figcaption>
+        </figure>
+
+        <p>
+            I have been to Hawaii for a wrestling tournament when I was younger. I'm not sure if it was just where I was at the time but
+            I really like that everything was quite and closed by 9 p.m. but everyone was up and going early which I enjoy more. I also enjoyed
+            the weather because even when it rained it was still warm out.
+        </p>
+    </article>
+
+    <article>
+        <h1>Las Vegas</h1>
+
+        <figure>
+            <img src="/Protosite/students/kwaterston/assests/las_vegas.jpg" alt="las vegas">
+            <figcaption>Las Vegas, a place to do anything.</figcaption>
+        </figure>
+
+        <p>
+            Me and my wife enjoy going to vegas every couple years. We have seen various shows/events when we've gone including a UFC card as well
+            as a Cirque du Soleil which I would highly recommend. My favourite restaurant that we always make sure to go to at least once per trip
+            is Mon Ami Gabi located in Paris Hotel and Casino where I ironically get the burger as it's the best burger I've ever had.
+        </p>
+    </article>
+
+</main>
+
+<footer id="footer">
+    <details>
+        <summary>Copyright Kurtis Waterston <time>2017</time></summary>
+        <p>This site and all it's text content was created by Kurtis Waterston for Comp 1950 at BCIT</p>
+    </details>
+    <!--<p>Copyright Kurtis Waterston 2017</p>-->
+    <a href="https://validator.w3.org/nu/?doc=http%3A%2F%2Fbcitcomp.ca%2Fstudents%2Fkwaterston%2Fassignment2.html">Validator Check</a>
+
+    <p>
+        <!--#config timefmt="%B %e %Y, %H:%M%p"-->
+        Last modified: <!--#echo var="LAST_MODIFIED"-->
+    </p>
+</footer>
+
+</body>
+</html>
